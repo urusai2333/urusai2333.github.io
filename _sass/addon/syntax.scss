@@ -113,6 +113,7 @@ code {
     word-break: break-word;
     border-radius: 4px;
     background-color: var(--inline-code-bg);
+    color: var(--inline-code-fg);
   }
 
   &.filepath {
