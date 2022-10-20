@@ -5,7 +5,7 @@ order: 4
 ---
 
 > 本站文章渣翻搬运自官方的社区 Wiki - [https://wiki.plateupgame.com](https://wiki.plateupgame.com) 。
-{: .prompt-tip }
+{: .prompt-info }
 
 
 ~~广而告之，有疑问或者联机需求可以加入 [Steam 讨论组](https://steamcommunity.com/groups/plateup_cn) 或 [Steam 联机群](https://s.team/chat/LuXayQvG) ಥ_ಥ~~

@@ -10,6 +10,10 @@ tags:
 toc: true
 # img_path: /img/path/
 ---
+
+> 本文译自 - [https://wiki.plateupgame.com/gameplay/Blueprints](https://wiki.plateupgame.com/gameplay/Blueprints)
+{: .prompt-info }
+
 **蓝图** 可以让玩家使用(赚到的) ![硬币](/icons/coin.png){: .normal w="24" h="24" } 硬币来为餐厅购买新的 [电器](https://wiki.plateupgame.com/appliances)、 [食材](https://wiki.plateupgame.com/ingredients)、 [装饰](https://wiki.plateupgame.com/Decorations)。
 
 通常，每天会有 **5张** 蓝图会以信封的形式，出现在营业开始前的准备环节，玩家可以用 `抓取` 键打开它们 (信封的数量在装修日会有所变化，并受到 [蓝图桌](#蓝图桌) 的影响)。 走到一张蓝图上，会显示其对应的详细信息，然后玩家可以长按 `交互` 键进行购买。
